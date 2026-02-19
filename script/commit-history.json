@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Luis Aguilar",
+    "commit": {
+      "date": "2026-02-19T03:13:58.000Z",
+      "message": "feat: agrega saludo basico con hola",
+      "url": "https://github.com/luis-ag23/TareaIngSoft3/commit/HEAD"
+    },
+    "stats": {
+      "total": 23293,
+      "additions": 22286,
+      "deletions": 1007,
+      "date": "2026-02-19"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  }
+]
