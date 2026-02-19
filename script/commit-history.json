@@ -95,16 +95,35 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "09674008278252e5338f8b60fcd7622a2a22b51c",
     "author": "Luis Aguilar",
     "commit": {
       "date": "2026-02-19T03:47:48.000Z",
       "message": "feat: agrega saludo según la hora del día",
-      "url": "https://github.com/luis-ag23/TareaIngSoft3/commit/HEAD"
+      "url": "https://github.com/luis-ag23/TareaIngSoft3/commit/09674008278252e5338f8b60fcd7622a2a22b51c"
     },
     "stats": {
       "total": 13,
       "additions": 12,
+      "deletions": 1,
+      "date": "2026-02-19"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luis Aguilar",
+    "commit": {
+      "date": "2026-02-19T03:54:00.000Z",
+      "message": "feat: agrega saludo por género",
+      "url": "https://github.com/luis-ag23/TareaIngSoft3/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 6,
       "deletions": 1,
       "date": "2026-02-19"
     },
