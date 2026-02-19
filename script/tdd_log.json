@@ -6,9 +6,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6fd3b901cd69f4a2fb51630a2b6c80796f89d30b",
     "commitName": "feat: agrega saludo personalizado por nombre",
     "commitTimestamp": 1771471036647,
     "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agrega saludo basica con hola",
+    "commitTimestamp": 1771471776741,
+    "testId": 2
   }
 ]
