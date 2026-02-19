@@ -48,9 +48,15 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "67f81db2331e3bc48d0f455f6a90749438f5c543",
     "commitName": "feat: agrega tratamiento formal para mayores de 30",
     "commitTimestamp": 1771473744069,
     "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: se añade la relacion con javascript",
+    "commitTimestamp": 1771475913491,
+    "testId": 9
   }
 ]

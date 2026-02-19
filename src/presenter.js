@@ -1,15 +1,19 @@
-import sumar from "./sumador";
+import saludar from "./saludador.js";
 
-const first = document.querySelector("#primer-numero");
-const second = document.querySelector("#segundo-numero");
-const form = document.querySelector("#sumar-form");
+const form = document.querySelector("#saludo-form");
+const nombreInput = document.querySelector("#nombre");
+const edadInput = document.querySelector("#edad");
+const generoSelect = document.querySelector("#genero");
 const div = document.querySelector("#resultado-div");
 
-form.addEventListener("submit", (event) => {
+form.addEventListener("submit", (event) =>{
   event.preventDefault();
 
-  const firstNumber = Number.parseInt(first.value);
-  const secondNumber = Number.parseInt(second.value);
+   const nombre = nombreInput.value;
+   const edad = Number.parseInt(edadInput.value);
+   const genero = generoSelect.value;
 
-  div.innerHTML = "<p>" + sumar(firstNumber, secondNumber) + "</p>";
+   const mensaje = saludar(nombre,edad,genero)
+   div.innerHTML = "<p>" + mensaje + "</p>";
+
 });

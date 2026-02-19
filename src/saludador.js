@@ -1,13 +1,11 @@
-function saludar() {
-  const nombre = document.getElementById("nombre").value;
-  const genero = document.getElementById("genero").value;
+function saludar(nombre, edad, genero) {
   const hora = new Date().getHours();
   let saludo = "";
   let titulo_de_cortesia = "";
 
-  if(hora < 12){
+  if(hora >= 6 && hora <= 11){
     saludo = "Buenos dias";
-  } else if(hora < 18){
+  } else if(hora >= 12 && hora <= 19){
     saludo = "Buenas tardes";
   } else {
     saludo = "Buenas noches";
@@ -17,8 +15,9 @@ function saludar() {
     if(genero === "m") titulo_de_cortesia = "Sr.";
     else titulo_de_cortesia = "Sra."
   }
-  document.getElementById("resultado").textContent = saludo + " " + titulo + " " + nombre;
-
+  return `${saludo} ${titulo_de_cortesia} ${nombre}`.trim();
 }
+
+export default saludar;
 
 
