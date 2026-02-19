@@ -18,9 +18,15 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "70f37dffe6530cf45feebf854b967bfc958e15d2",
     "commitName": "feat: formulario para el saludo",
     "commitTimestamp": 1771472478790,
     "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agrega saludo personalizado por nombre",
+    "commitTimestamp": 1771472625280,
+    "testId": 4
   }
 ]
