@@ -54,9 +54,15 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "097c87dbddd92f0e05038e9d3f665dcdbd1ef4c4",
     "commitName": "feat: se añade la relacion con javascript",
     "commitTimestamp": 1771475913491,
     "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: elimina la propiedad main que causaba error en el build",
+    "commitTimestamp": 1771476261777,
+    "testId": 10
   }
 ]

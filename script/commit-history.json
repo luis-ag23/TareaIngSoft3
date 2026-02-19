@@ -171,17 +171,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "097c87dbddd92f0e05038e9d3f665dcdbd1ef4c4",
     "author": "Luis Aguilar",
     "commit": {
       "date": "2026-02-19T04:38:32.000Z",
       "message": "feat: se añade la relacion con javascript",
-      "url": "https://github.com/luis-ag23/TareaIngSoft3/commit/HEAD"
+      "url": "https://github.com/luis-ag23/TareaIngSoft3/commit/097c87dbddd92f0e05038e9d3f665dcdbd1ef4c4"
     },
     "stats": {
       "total": 35,
       "additions": 19,
       "deletions": 16,
+      "date": "2026-02-19"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luis Aguilar",
+    "commit": {
+      "date": "2026-02-19T04:44:20.000Z",
+      "message": "fix: elimina la propiedad main que causaba error en el build",
+      "url": "https://github.com/luis-ag23/TareaIngSoft3/commit/HEAD"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 0,
+      "deletions": 1,
       "date": "2026-02-19"
     },
     "coverage": 0,
