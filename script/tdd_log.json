@@ -42,9 +42,15 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8651e009756cfecf33c47e351701e1f8a1ca0146",
     "commitName": "feat: agrega tratamiento formal para mayores de 30",
     "commitTimestamp": 1771473585238,
     "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agrega tratamiento formal para mayores de 30",
+    "commitTimestamp": 1771473744069,
+    "testId": 8
   }
 ]
