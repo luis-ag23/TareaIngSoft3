@@ -13,8 +13,9 @@ function saludar() {
     saludo = "Buenas noches";
   }
 
-  if(genero === "m") titulo_de_cortesia = "Sr.";
-  else titulo_de_cortesia = "Sra."
+  if(edad > 30){
+    
+  }
   document.getElementById("resultado").textContent = saludo + " " + titulo + " " + nombre;
 
 }

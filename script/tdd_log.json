@@ -36,9 +36,15 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "986fa12f1c4dd40eebad92e90105a0d19a97f4a7",
     "commitName": "feat: agrega saludo por género",
     "commitTimestamp": 1771473241900,
     "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agrega tratamiento formal para mayores de 30",
+    "commitTimestamp": 1771473585238,
+    "testId": 7
   }
 ]
