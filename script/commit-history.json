@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "f0ea2dc8557bffc9df34b6c951550ed33c7fb65f",
     "author": "Luis Aguilar",
     "commit": {
       "date": "2026-02-19T03:13:58.000Z",
       "message": "feat: agrega saludo basico con hola",
-      "url": "https://github.com/luis-ag23/TareaIngSoft3/commit/HEAD"
+      "url": "https://github.com/luis-ag23/TareaIngSoft3/commit/f0ea2dc8557bffc9df34b6c951550ed33c7fb65f"
     },
     "stats": {
       "total": 23293,
       "additions": 22286,
       "deletions": 1007,
+      "date": "2026-02-19"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luis Aguilar",
+    "commit": {
+      "date": "2026-02-19T03:17:15.000Z",
+      "message": "feat: agrega saludo personalizado por nombre",
+      "url": "https://github.com/luis-ag23/TareaIngSoft3/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
       "date": "2026-02-19"
     },
     "coverage": 0,
